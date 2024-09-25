@@ -4,7 +4,7 @@ My name is Surya Ilham Fahrizi,<br>I'm currently a student of Padang State Unive
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suryailhamfahrizi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryailhamfahrizi13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryailhamfahrizi)
-Email: suryailhamfahrizi13@gmail.com
+<br>Email: suryailhamfahrizi13@gmail.com
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
